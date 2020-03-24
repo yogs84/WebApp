@@ -57,6 +57,7 @@
 		</dependency>
 	</dependencies>
 	<build>
+		<finalName>JavaWebApp</finalName>
 		<sourceDirectory>src</sourceDirectory>
 					
 		<plugins>
